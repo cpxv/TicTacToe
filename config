@@ -1,0 +1,5 @@
+[pack]
+	buildbitmaps = false
+[remote "origin"]
+	url = https://cpxv@github.com/cpxv/TicTacToe.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
